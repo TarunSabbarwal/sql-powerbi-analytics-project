@@ -53,6 +53,16 @@ The report includes:
 
 Dashboard screenshots are available in the `screenshots/` folder.
 
+### Executive Overview
+![Executive Report](screenshots/exec_report.png)
+
+### Customer Analysis
+![Customer Report](screenshots/customer_report.png)
+
+### Product Performance
+![Product Performance](screenshots/product_performance.png)
+
+
 ---
 
 ## Key Outcome
